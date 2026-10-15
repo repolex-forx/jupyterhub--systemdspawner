@@ -1,0 +1,11 @@
+{
+  "org": "jupyterhub",
+  "repo": "systemdspawner",
+  "versions": [
+    {
+      "commit": "9a0a7f4efe543f50517f84f9985c38269afc77c3",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:52:05.850915+00:00"
+    }
+  ]
+}
